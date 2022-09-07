@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=**********************
-CADDYIndexPage=https://github.com/Externalizable/bongo.cat/archive/master.zip
+AUUID=4384f453-0515-4bbb-a8b3-3213ef89ecf2
+CADDYIndexPage=https://github.com/jukanntenn/django-blog-tutorial-templates/archive/refs/heads/master.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
